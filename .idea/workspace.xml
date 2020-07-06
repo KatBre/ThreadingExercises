@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7ca9017-1dc4-446c-9760-d25992278511" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise1/Exercise1Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise2/Exercise2Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/CheckerModifiedFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/CheckerNewFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/CheckerRemovedFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/DirectoryChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/ICheckOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/startonethread/ActivityNotifyingRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/startonethread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/startthreadpool/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Kasia\IdeaProjects\Threading\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eGXzrmjCArukIigZumHj0SQ9Xu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Exercise2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise2.Main" />
+      <module name="Threading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise1.Main" />
+      <module name="Threading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7ca9017-1dc4-446c-9760-d25992278511" name="Default Changelist" comment="" />
+      <created>1593949168707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593949168707</updated>
+    </task>
+    <task id="LOCAL-00001" summary="threading race commit">
+      <created>1593952716954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593952716954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="threading race commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="threading race commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1163" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1593956827507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1163" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593956827507" />
+    <state x="1012" y="119" key="CommitChangelistDialog2" timestamp="1593952716532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1012" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593952716532" />
+    <state x="1138" y="266" key="FileChooserDialogImpl" timestamp="1593951127157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1138" y="266" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593951127157" />
+    <state width="1047" height="852" key="GridCell.Tab.0.bottom" timestamp="1594064091733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="852" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594064091733" />
+    <state width="1047" height="852" key="GridCell.Tab.0.center" timestamp="1594064091733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="852" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594064091733" />
+    <state width="1047" height="852" key="GridCell.Tab.0.left" timestamp="1594064091733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="852" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594064091733" />
+    <state width="1047" height="852" key="GridCell.Tab.0.right" timestamp="1594064091733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="852" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594064091733" />
+    <state width="1047" height="336" key="GridCell.Tab.1.bottom" timestamp="1594063712647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594063712647" />
+    <state width="1047" height="336" key="GridCell.Tab.1.center" timestamp="1594063712647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="336" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594063712647" />
+    <state width="1047" height="336" key="GridCell.Tab.1.left" timestamp="1594063712646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="336" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594063712646" />
+    <state width="1047" height="336" key="GridCell.Tab.1.right" timestamp="1594063712647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594063712647" />
+  </component>
+</project>
