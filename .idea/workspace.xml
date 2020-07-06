@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ca9017-1dc4-446c-9760-d25992278511" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Threading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise1/Exercise1Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise2/Exercise2Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/CheckerModifiedFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/CheckerNewFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/CheckerRemovedFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/DirectoryChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/ICheckOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3modified/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/startonethread/ActivityNotifyingRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/startonethread/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/startthreadpool/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api_rekrutacyjne" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -139,26 +120,34 @@
       <option name="project" value="LOCAL" />
       <updated>1593952716954</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ex2 and ex3 added">
+      <created>1594064578738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594064578738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="threading race commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="threading race commit" />
+    <MESSAGE value="ex2 and ex3 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex2 and ex3 added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1163" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1593956827507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1163" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593956827507" />
-    <state x="1012" y="119" key="CommitChangelistDialog2" timestamp="1593952716532">
+    <state x="1012" y="119" key="CommitChangelistDialog2" timestamp="1594064578294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1012" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593952716532" />
-    <state x="1138" y="266" key="FileChooserDialogImpl" timestamp="1593951127157">
+    <state x="1012" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594064578294" />
+    <state x="1138" y="266" key="FileChooserDialogImpl" timestamp="1594064800959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1138" y="266" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593951127157" />
+    <state x="1138" y="266" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594064800959" />
     <state width="1047" height="852" key="GridCell.Tab.0.bottom" timestamp="1594064091733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -191,5 +180,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1047" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594063712647" />
+    <state x="950" y="258" key="Vcs.Push.Dialog.v2" timestamp="1594064585292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="950" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594064585292" />
   </component>
 </project>
