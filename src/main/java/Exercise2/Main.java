@@ -19,3 +19,4 @@ public class Main {
         } while (!command.equalsIgnoreCase("quit"));
     }
 }
+
